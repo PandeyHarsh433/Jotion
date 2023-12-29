@@ -34,8 +34,8 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
 
 ### 4. Stylish UI
 
-- **SDACN UI:**
-  - Stylish and responsive UI powered by SDACN UI for a delightful user experience.
+- **SHADCN UI:**
+  - Stylish and responsive UI powered by SHADCN UI for a delightful user experience.
 
 ### 5. Secure Data Handling
 
