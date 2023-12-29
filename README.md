@@ -79,13 +79,9 @@ Visit http://localhost:3000 to see Jotion in action!
 ### Published Notes
 ![Published Notes](https://raw.githubusercontent.com/PandeyHarsh433/images/master/image2.png)
 
-
 ## Contributing
-   Feel free to contribute to the development of Jotion. Check out the Contributing Guidelines for more details.
-
-## Contributing
-Feel free to contribute to the development of Jotion. Check out the Contributing Guidelines for more details.
+ - Feel free to contribute to the development of Jotion. Check out the Contributing Guidelines for more details.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+ - This project is licensed under the MIT License - see the LICENSE file for details.
 
