@@ -47,14 +47,24 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
 1. ### Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/jotion.git
+   git clone https://github.com/PandeyHarsh433/Jotion.git
 
 2. ### Install dependencies:
    cd jotion
    npm install
 
-3. ### Run the development server:
+3. ### Configure .env.loval file:
+    CONVEX_DEPLOYMENT = "XXXX"
+    NEXT_PUBLIC_CONVEX_URL="XXXX"
+    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="XXXX"
+    CLERK_SECRET_KEY="XXXX"
+    EDGE_STORE_ACCESS_KEY="XXXX"
+    EDGE_STORE_SECRET_KEY="XXXX"
+
+
+5. ### Run the development server:
   npm run dev
+  npx convex dev
 
 Visit http://localhost:3000 to see Jotion in action!
 
@@ -65,7 +75,7 @@ Visit http://localhost:3000 to see Jotion in action!
 ![Note Creation](https://github.com/PandeyHarsh433/images/blob/master/Screenshot%20(187).png)
 
 ### Published Notes
-![Published Notes](https://raw.githubusercontent.com/PandeyHarsh433/images/master/image.png)
+![Published Notes](https://raw.githubusercontent.com/PandeyHarsh433/images/master/image2.png)
 
 
 ## Contributing
