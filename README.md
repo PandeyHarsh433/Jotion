@@ -34,8 +34,8 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
 
 ### 4. Stylish UI
 
-- **SHADCN UI:**
-  - Stylish and responsive UI powered by SHADCN UI for a delightful user experience.
+- **Shadcn UI:**
+  - Stylish and responsive UI powered by Shadcn UI for a delightful user experience.
 
 ### 5. Secure Data Handling
 
@@ -54,17 +54,17 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
    npm install
 
 3. ### Configure .env.loval file:
-    CONVEX_DEPLOYMENT = "XXXX"
-    NEXT_PUBLIC_CONVEX_URL="XXXX"
-    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="XXXX"
-    CLERK_SECRET_KEY="XXXX"
-    EDGE_STORE_ACCESS_KEY="XXXX"
-    EDGE_STORE_SECRET_KEY="XXXX"
+-  CONVEX_DEPLOYMENT = "XXXX"
+-  NEXT_PUBLIC_CONVEX_URL="XXXX"
+-  NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="XXXX"
+-  CLERK_SECRET_KEY="XXXX"
+-  EDGE_STORE_ACCESS_KEY="XXXX"
+-  EDGE_STORE_SECRET_KEY="XXXX"
 
 
 5. ### Run the development server:
-  npm run dev
-  npx convex dev
+   npm run dev
+   npx convex dev
 
 Visit http://localhost:3000 to see Jotion in action!
 
