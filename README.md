@@ -1,6 +1,6 @@
 # Jotion - Your Personal Note-Taking App
 
-![Jotion Preview](preview.png)
+![Jotion Preview](https://raw.githubusercontent.com/PandeyHarsh433/images/master/Screenshot%20(186).png)
 
 Jotion is a feature-rich note-taking application built with Next.js 14, @blocknote, Tailwind, Zustand, SDACN UI, Zod, and more.
 
@@ -9,8 +9,8 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
 ### 1. User Authentication
 
 - **Test User Credentials:**
-  - Username: testuser
-  - Password: testpassword123
+  - Username: Moviesjust461@gmail.com
+  - Password: Moviesjust@461
 
 ### 2. Note Creation and Management
 
@@ -58,7 +58,15 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
 
 Visit http://localhost:3000 to see Jotion in action!
 
-## Screenshots
+### Dashboard View
+![Dashboard View](https://raw.githubusercontent.com/PandeyHarsh433/images/master/Screenshot%20(186).png)
+
+### Note Creation
+![Note Creation](https://github.com/PandeyHarsh433/images/blob/master/Screenshot%20(187).png)
+
+### Published Notes
+![Published Notes](https://raw.githubusercontent.com/PandeyHarsh433/images/master/image.png)
+
 
 ## Contributing
 Feel free to contribute to the development of Jotion. Check out the Contributing Guidelines for more details.
