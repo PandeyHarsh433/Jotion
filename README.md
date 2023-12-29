@@ -44,25 +44,25 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
 
 ## Getting Started
 
-1. ###Clone the repository:
+1. ### Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/jotion.git
 
-2. ###Install dependencies:
+2. ### Install dependencies:
    cd jotion
    npm install
 
-3. ###Run the development server:
+3. ### Run the development server:
   npm run dev
 
 Visit http://localhost:3000 to see Jotion in action!
 
-##Screenshots
+## Screenshots
 
-##Contributing
+## Contributing
 Feel free to contribute to the development of Jotion. Check out the Contributing Guidelines for more details.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
