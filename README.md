@@ -2,7 +2,7 @@
 
 ![Jotion Preview](https://raw.githubusercontent.com/PandeyHarsh433/images/master/Screenshot%20(186).png)
 
-Jotion is a feature-rich note-taking application built with Next.js 14, @blocknote, Tailwind, Zustand, SDACN UI, Zod, and more.
+Jotion is a feature-rich note-taking application built with Next.js 14, @blocknote, Tailwind, Zustand, Shadcn UI, Zod, and more.
 
 ## Features
 
@@ -50,10 +50,11 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
    git clone https://github.com/PandeyHarsh433/Jotion.git
 
 2. ### Install dependencies:
+     ```bash
    cd jotion
    npm install
 
-3. ### Configure .env.loval file:
+4. ### Configure .env.loval file:
 -  CONVEX_DEPLOYMENT = "XXXX"
 -  NEXT_PUBLIC_CONVEX_URL="XXXX"
 -  NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="XXXX"
