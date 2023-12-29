@@ -64,6 +64,7 @@ Jotion is a feature-rich note-taking application built with Next.js 14, @blockno
 
 
 5. ### Run the development server:
+   ```bash
    npm run dev
    npx convex dev
 
@@ -78,6 +79,9 @@ Visit http://localhost:3000 to see Jotion in action!
 ### Published Notes
 ![Published Notes](https://raw.githubusercontent.com/PandeyHarsh433/images/master/image2.png)
 
+
+## Contributing
+   Feel free to contribute to the development of Jotion. Check out the Contributing Guidelines for more details.
 
 ## Contributing
 Feel free to contribute to the development of Jotion. Check out the Contributing Guidelines for more details.
